@@ -19,3 +19,4 @@ shopify-store/.env
 # Editor
 .cursor/
 .vscode/
+creds.rtf
