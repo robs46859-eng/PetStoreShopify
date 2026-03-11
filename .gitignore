@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+web/node_modules/
+shopify-store/node_modules/
+
+# Build outputs
+web/dist/
+web/.cache/
+web/build/
+
+# Env files (never commit secrets)
+.env
+web/.env
+shopify-store/.env
+
+# OS
+.DS_Store
+
+# Editor
+.cursor/
+.vscode/
